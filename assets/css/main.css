@@ -510,7 +510,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 1920px) {
 
-			body, input, textarea, select {
+			body, p, input, textarea, select {
 				font-size: 17pt;
 			}
 
@@ -518,7 +518,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 1680px) {
 
-			body, input, textarea, select {
+			body, p, input, textarea, select {
 				font-size: 15pt;
 			}
 
@@ -526,7 +526,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 1280px) {
 
-			body, input, textarea, select {
+			body, p, input, textarea, select {
 				font-size: 13pt;
 			}
 
@@ -534,7 +534,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 1000px) {
 
-			body, input, textarea, select {
+			body, p, input, textarea, select {
 				font-size: 13pt;
 			}
 
@@ -542,7 +542,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			body, input, textarea, select {
+			body, p, input, textarea, select {
 				font-size: 12pt;
 				line-height: 1.5em;
 			}
